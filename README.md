@@ -1,4 +1,4 @@
-<h1 align="center">Hey, moi c'est [Ton Prénom] 👋</h1>
+<h1 align="center">Hey, moi c'est Jean-Sébastien 👋</h1>
 
 <p align="center">
   Étudiant à <strong>Epitech</strong> · Passionné de développement & de défis tech
@@ -50,12 +50,12 @@
 ## 📊 Mes stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TONPSEUDO&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONPSEUDO&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanSebastienFrotin&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSebastienFrotin&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TONPSEUDO&style=flat-square&color=0A66C2" alt="Vues du profil"/>
+  <img src="https://komarev.com/ghpvc/?username=JeanSebastienFrotin&style=flat-square&color=0A66C2" alt="Vues du profil"/>
 </p>
