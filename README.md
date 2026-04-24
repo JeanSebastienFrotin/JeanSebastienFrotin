@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TONPSEUDO">
+  <a href="https://www.linkedin.com/in/jean-sébastien-frotin-26bb83340/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TON@EMAIL.COM">
+  <a href="mailto:jean-sebastien.frotin@epitech.eu">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
